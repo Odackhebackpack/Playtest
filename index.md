@@ -108,5 +108,5 @@
   * [Rougelike: Heaven Mize](https://myzer0soul0902.github.io/GameBuild/index.html) --- I'm planning on editing Rougelike to have a proper ending.
     
   * [Rougelike: Justin Sewell](https://Starfighter36.github.io/WebGL/index.html) --- Built a second area for the game with enemies and items with a maze.
-   
+   * [Lander: Samuel Quitat](https://Odackthebackpack.github.io/NewGame/index.html) --- Made game more like a maze.Planning on adding enemies later on.
   
